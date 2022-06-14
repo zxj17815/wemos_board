@@ -17,5 +17,5 @@ In this example I request weather data and display
 #### Lcd part3
 Using a 1.44 tft display        
 need `Adafruit_GFX` library and `Adafruit_ST7735` library
-![alt](https://github.com/zxj17815/wemos_board/picture/lcd3/wemos.jpeg)
-![alt](https://github.com/zxj17815/wemos_board/picture/lcd3/tft.jpeg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/lcd3/wemos.jpeg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/lcd3/tft.jpeg)
