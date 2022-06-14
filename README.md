@@ -7,7 +7,7 @@ In the Lcd folder
 Use lcd to display content 
 `Lcd.ino` need `NewLiquidCrystal_1.5.1` library
 need `hd44780` library to use lcd
-![alt](https://github.com/zxj17815/wemos_board/picture/lcd1/lcd1.jpeg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/lcd1/lcd1.jpeg)
 #### WiFi & http
 In the HttpClient folder
 Use wifi to connect to network and use http to get data to server        
