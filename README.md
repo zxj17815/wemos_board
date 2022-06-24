@@ -19,3 +19,13 @@ Using a 1.44 tft display
 need `Adafruit_GFX` library and `Adafruit_ST7735` library
 ![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/lcd3/wemos.jpeg)
 ![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/lcd3/tft.jpeg)
+#### Weather Lcd Plus
+Using a 1.44 tft display        
+need `Adafruit_GFX` library and `Adafruit_ST7735` library      
+I convert the 70+ Chinese characters and some pictures to bitmaps    
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/4.jpg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/pin.jpg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/con.jpg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/1.jpg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/2.jpg)
+![alt](https://github.com/zxj17815/wemos_board/blob/main/picture/weatherLcdPlus/3.jpg)
